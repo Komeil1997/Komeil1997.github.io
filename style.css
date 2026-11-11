@@ -1,1 +1,11 @@
-
+body{
+    background-color: brown;
+}
+h2{
+    color: aqua;
+    font-size: 40px;
+}
+p{
+    background-color: chocolate;
+    font-size: 80px;
+}
